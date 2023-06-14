@@ -19,7 +19,7 @@ pretty_print "Updating brew formulas"
   	brew update
 
 pretty_print "Installing NodeJS"
-  	brew install node
+  	brew install node@18
 
 pretty_print "Installing NVM"
   	brew install nvm
